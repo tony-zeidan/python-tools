@@ -23,18 +23,11 @@ Like this:
 
 The course project team can be reached at:
 
-jerilcherian@cmail.carleton.ca
+(Email of team leader here)
 
 ## Credits
 
 (Describe what each team member contributed)
-Nader:
-
-K.C.:
-
-Jana:
-
-Jeril:
 
 ## License
 
