@@ -12,6 +12,9 @@ Version 1.0.0, 12/10/2021
 
 (Describe how to use your program)
 
+(Give one example for each function you have written thus far)
+
+Like this:
 ```
 >>> find_books_by_title(books_dataset, "After Anna")
 ```
